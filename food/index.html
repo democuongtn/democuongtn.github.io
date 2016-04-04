@@ -1,0 +1,15 @@
+---
+layout: food
+---
+
+<div class="home">
+    <h1>FOOD</h1>
+
+    <ul class="post-list">
+        {% for post in site.categories.food %}
+            <li>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+</div>

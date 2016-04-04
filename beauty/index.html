@@ -1,0 +1,15 @@
+---
+layout: beauty
+---
+
+<div class="home">
+    <h1>BEAUTY</h1>
+
+    <ul class="post-list">
+        {% for post in site.categories.beauty %}
+            <li>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+</div>
