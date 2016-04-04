@@ -9,6 +9,7 @@ layout: beauty
         {% for post in site.categories.beauty %}
             <li>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                {{ post.content }}
             </li>
         {% endfor %}
     </ul>

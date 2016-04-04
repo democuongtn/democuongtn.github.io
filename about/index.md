@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+![about_me](https://remyniscent.files.wordpress.com/2013/06/img_7151.jpg)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I was born in Hanoi but currently living in Melbourne for my higher education purpose. I major in Marketing and always try to apply what I have learned in running a business.
+
+Apart from the ambition of being a future entrepreneur, I find myself a wanderlust, a food lover and a beauty addict. These three things are also the inspirations that make me want to create this blog.
+
+I hope to share with everyone the beautiful places that I have travelled to, the mouthwatering food that I have chances to taste and some beauty products that I am currently using which I find effective.
+
+Thank you for visiting! xoxo

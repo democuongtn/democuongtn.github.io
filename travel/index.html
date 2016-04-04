@@ -9,6 +9,7 @@ layout: travel
         {% for post in site.categories.travel %}
             <li>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                {{ post.content }}
             </li>
         {% endfor %}
     </ul>
